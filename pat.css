@@ -1,0 +1,35 @@
+h1{
+    /* margin: 5px; */
+    text-align: center;
+    color: #f5f514;
+    background-color: #2055a1;
+
+}
+.navbar{
+    background-color: #2055a1;
+    height: 40px;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.form{
+    max-width: 500px;
+    margin-left: 4%;
+}
+.la{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display: inline-block;
+    margin-left: 10%;
+}
+input{
+    margin-left: 10%;
+    margin-right: 20%;
+    margin: -4.1%;
+    position: relative;
+   
+    float: right;
+    
+}
